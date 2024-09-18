@@ -15,13 +15,11 @@ Jiwar database is an open-source neighborhood database covering 40 languages. It
 
 ## How to Use 
 
-1. **Navigate to the jiwar_database Directory**  
-   Visit the [jiwar_database directory](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database) 
+1. Navigate to the [jiwar_database](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database) directory
    
-2. **Download the file for the language and format you need.**
+2. Download the file for the language and format you need.
 
-3. **Open and Query the File**  
-   Open the downloaded file with software that can handle the file format. We recommend using the database in Excel format as it allows for fast and robust queries.
+3. Query: We recommend using the database in Excel format as it allows for fast and robust queries.
 
 ## File Structure
 
