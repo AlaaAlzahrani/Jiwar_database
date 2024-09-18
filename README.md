@@ -8,16 +8,21 @@ Jiwar database is an open-source neighborhood database covering 40 languages. It
 
 - 🗣️ Supports 40 languages
 - 📁 Available in:
-  - TSV
-  - CSV
-  - XLSX
-  - TXT
+  - [TSV](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database/tsv)
+  - [CSV](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database/csv)
+  - [XLSX](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database/xlsx)
+  - [TXT](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database/txt)
 
-## How to
+## How to Use the Database
 
-1. Download the file for your desired language and format.
-2. Open the file using appropriate software. We recommened [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel).
-3. Use the data as needed for your needs.
+1. **Go to the jiwar_database Directory**  
+   Visit the [jiwar_database directory](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database) on GitHub. Find and download the file for the language and format you need.
+
+2. **Open the File**  
+   Open the downloaded file with software that can handle the file format. We recommend using [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel) for this purpose.
+
+3. **Use the Data**  
+   You can now use the data as needed for your projects or analysis.
 
 ## File Structure
 
