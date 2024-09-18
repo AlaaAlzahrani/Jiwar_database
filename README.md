@@ -1,8 +1,6 @@
 # Jiwar Database
 
-## Overview
-
-Jiwar database is an open-source neighborhood database covering 40 languages. It provides three types of neighborhood information (orthographic, phonological, phonographic) for words.
+Jiwar database is an open-source neighborhood database covering 40 languages. It provides three types of neighborhood information (orthographic, phonological, phonographic) for 10k-30k words per language.
 
 ## Features
 
@@ -52,6 +50,53 @@ Each file contains 25 columns with the following information:
 | 23 | pg_nbr_zipf_m | Mean Zipf frequency of phonographic neighbors |
 | 24 | pg_nbr_zipf_SD | Standard deviation of Zipf frequency of phonographic neighbors |
 | 25 | pg_C | Phonographic clustering coefficient |
+
+
+## Supported Languages
+
+| Code | Language |
+|------|----------|
+| af | Afrikaans |
+| ar | Arabic |
+| bg | Bulgarian |
+| bs | Bosnian |
+| ca | Catalan |
+| cs | Czech |
+| de | German |
+| el | Greek |
+| en-gb | English (GB) |
+| en-us | English (US) |
+| eo | Esperanto |
+| es | Spanish |
+| et | Estonian |
+| eu | Basque |
+| fa | Persian |
+| fi | Finnish |
+| fr | French |
+| hr | Croatian |
+| hu | Hungarian |
+| hy | Armenian |
+| id | Indonesian |
+| it | Italian |
+| kk | Kazakh |
+| ko | Korean |
+| lt | Lithuanian |
+| lv | Latvian |
+| mk | Macedonian |
+| ms | Malay |
+| nl | Dutch |
+| no | Norwegian |
+| pl | Polish |
+| pt | Portuguese |
+| ro | Romanian |
+| ru | Russian |
+| sk | Slovak |
+| sq | Albanian |
+| sr | Serbian |
+| sv | Swedish |
+| tr | Turkish |
+| uk | Ukrainian |
+| ur | Urdu |
 
 ## File Naming
 
