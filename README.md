@@ -100,7 +100,7 @@ Each file contains 25 columns with the following information:
 
 ## File Naming
 
-Files are named using [ISO language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) (e.g., 'ar' for Arabic, 'fr' for French).
+Files in the database are named using [ISO language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) (e.g., 'ar' for Arabic, 'fr' for French).
 
 ## Language Not Listed?
 If your language isn't listed, you can use the [Jiwar Calculator](https://github.com/AlaaAlzahrani/Jiwar) to generate neighborhood measures for words in 90 additional language varieties.
