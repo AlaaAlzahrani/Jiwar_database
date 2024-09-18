@@ -11,10 +11,10 @@ Jiwar database is an open-source neighborhood database covering 40 languages. It
   - [XLSX](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database/xlsx)
   - [TXT](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database/txt)
 
-## How to Use 
+## How to Use
 
-1. **Navigate**: go to the [jiwar_database](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database) directory
-   
+1. **Navigate**: go to the [jiwar_database](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database) directory.
+
 2. **Obtain**: download the file for the language and format you need.
 
 3. **Query**: we recommend using the database in Excel format as it allows for fast and robust queries.
@@ -50,7 +50,6 @@ Each file contains 25 columns with the following information:
 | 23 | pg_nbr_zipf_m | Mean Zipf frequency of phonographic neighbors |
 | 24 | pg_nbr_zipf_SD | Standard deviation of Zipf frequency of phonographic neighbors |
 | 25 | pg_C | Phonographic clustering coefficient |
-
 
 ## Supported Languages
 
@@ -103,6 +102,7 @@ Each file contains 25 columns with the following information:
 Files in the database are named using [ISO language codes](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) (e.g., 'ar' for Arabic, 'fr' for French).
 
 ## Language Not Listed?
+
 If your language isn't listed, you can use the [Jiwar Calculator](https://github.com/AlaaAlzahrani/Jiwar) to generate neighborhood measures for words in 90 additional language varieties.
 
 
