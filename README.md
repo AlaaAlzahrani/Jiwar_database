@@ -17,9 +17,9 @@ Jiwar database is an open-source neighborhood database covering 40 languages. It
 
 1. **Navigate**: go to the [jiwar_database](https://github.com/AlaaAlzahrani/Jiwar_database/tree/master/jiwar_database) directory
    
-2. **Obtain**: Download the file for the language and format you need.
+2. **Obtain**: download the file for the language and format you need.
 
-3. **Query**: We recommend using the database in Excel format as it allows for fast and robust queries.
+3. **Query**: we recommend using the database in Excel format as it allows for fast and robust queries.
 
 ## File Structure
 
@@ -27,13 +27,13 @@ Each file contains 25 columns with the following information:
 
 | Column | Name | Description |
 |--------|------|-------------|
-| 1 | word | The lexical item |
-| 2 | raw_frequency | Absolute frequency in the corpus |
-| 3 | freq_per_m | Frequency per million words |
-| 4 | zipf | Zipf frequency scale |
+| 1 | word | The orthographic word form |
+| 2 | raw_frequency | Absolute frequency in the corpus for the target word |
+| 3 | freq_per_m | Frequency per million words for the target word |
+| 4 | zipf | Zipf frequency scale for the target word |
 | 5 | num_letters | Number of letters in the orthographic word |
 | 6 | num_phonemes | Number of phonemes in the IPA transcribed word |
-| 7 | IPA | International Phonetic Alphabet transcription |
+| 7 | IPA | The International Phonetic Alphabet transcription of the target word|
 | 8 | orth_density | Number of orthographic neighbors (words differing by one letter via substitution, addition, or deletion) |
 | 9 | orth_density_nbrs | List of forms of orthographic neighbors identified in 'orth_density' |
 | 10 | OLD20 | Orthographic Levenshtein Distance 20 |
