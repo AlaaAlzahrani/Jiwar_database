@@ -55,49 +55,49 @@ Each file contains 25 columns with the following information:
 
 Here's the modified table with the writing form information added for the specified languages:
 
-| Code | Language | Writing Script Form |
-|------|----------|--------------|
-| af | Afrikaans | |
-| ar | Arabic | Fully diacritized Arabic |
-| bg | Bulgarian | |
-| bs | Bosnian | Cyrillic and Latin alphabet |
-| ca | Catalan | |
-| cs | Czech | |
-| de | German | |
-| el | Greek | |
-| en-gb | English (GB) | |
-| en-us | English (US) | |
-| eo | Esperanto | |
-| es | Spanish | |
-| et | Estonian | |
-| eu | Basque | |
-| fa | Persian | Perso-Arabic script |
-| fi | Finnish | |
-| fr | French | |
-| hr | Croatian | |
-| hu | Hungarian | |
-| hy | Armenian | |
-| id | Indonesian | |
-| it | Italian | |
-| kk | Kazakh | |
-| ko | Korean | |
-| lt | Lithuanian | |
-| lv | Latvian | |
-| mk | Macedonian | Cyrillic alphabet |
-| ms | Malay | |
-| nl | Dutch | |
-| no | Norwegian | |
-| pl | Polish | |
-| pt | Portuguese | European Portuguese |
-| ro | Romanian | |
-| ru | Russian | |
-| sk | Slovak | |
-| sq | Albanian | |
-| sr | Serbian | Cyrillic alphabet |
-| sv | Swedish | |
-| tr | Turkish | |
-| uk | Ukrainian | |
-| ur | Urdu | |
+| N   | Code  | Language        | Supported Writing Script |
+|-----|-------|-----------------|--------------------------|
+| 1   | af    | Afrikaans       | Latin                    |
+| 2   | ar    | Arabic          | Fully diacritized Arabic |
+| 3   | bg    | Bulgarian       | Cyrillic                 |
+| 4   | bs    | Bosnian         | Cyrillic, Latin          |
+| 5   | ca    | Catalan         | Latin                    |
+| 6   | cs    | Czech           | Latin                    |
+| 7   | de    | German          | Latin                    |
+| 8   | el    | Greek           | Greek                    |
+| 9   | en-gb | English (GB)    | Latin                    |
+| 10  | en-us | English (US)    | Latin                    |
+| 11  | eo    | Esperanto       | Latin                    |
+| 12  | es    | Spanish         | Latin                    |
+| 13  | et    | Estonian        | Latin                    |
+| 14  | eu    | Basque          | Latin                    |
+| 15  | fa    | Persian         | Perso-Arabic             |
+| 16  | fi    | Finnish         | Latin                    |
+| 17  | fr    | French          | Latin                    |
+| 18  | hr    | Croatian        | Latin                    |
+| 19  | hu    | Hungarian       | Latin                    |
+| 20  | hy    | Armenian        | Armenian                 |
+| 21  | id    | Indonesian      | Latin                    |
+| 22  | it    | Italian         | Latin                    |
+| 23  | kk    | Kazakh          | Cyrillic                 |
+| 24  | ko    | Korean          | Hangul                   |
+| 25  | lt    | Lithuanian      | Latin                    |
+| 26  | lv    | Latvian         | Latin                    |
+| 27  | mk    | Macedonian      | Cyrillic                 |
+| 28  | ms    | Malay           | Latin                    |
+| 29  | nl    | Dutch           | Latin                    |
+| 30  | no    | Norwegian       | Latin                    |
+| 31  | pl    | Polish          | Latin                    |
+| 32  | pt    | Portuguese      | Latin                    |
+| 33  | ro    | Romanian        | Latin                    |
+| 34  | ru    | Russian         | Cyrillic                 |
+| 35  | sk    | Slovak          | Latin                    |
+| 36  | sq    | Albanian        | Latin                    |
+| 37  | sr    | Serbian         | Cyrillic                 |
+| 38  | sv    | Swedish         | Latin                    |
+| 39  | tr    | Turkish         | Latin                    |
+| 40  | uk    | Ukrainian       | Cyrillic                 |
+| 41  | ur    | Urdu            | Perso-Arabic             |
 
 ## File Naming
 
