@@ -1,6 +1,6 @@
 # Jiwar Database
 
-Jiwar database is an open-source neighborhood database covering 40 languages. It provides three types of neighborhood information (orthographic, phonological, phonographic) for 10k-30k words per language.
+Jiwar database is an open-source neighborhood database covering 40 languages. It provides three types of neighborhood information (orthographic, phonological, phonographic) for 5k-30k words per language.
 
 ## Features
 
