@@ -53,8 +53,6 @@ Each file contains 25 columns with the following information:
 
 ## Supported Languages
 
-Here's the modified table with the writing form information added for the specified languages:
-
 | N   | Code  | Language        | Supported Writing Script |
 |-----|-------|-----------------|--------------------------|
 | 1   | af    | Afrikaans       | Latin                    |
