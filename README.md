@@ -53,49 +53,51 @@ Each file contains 25 columns with the following information:
 
 ## Supported Languages
 
-| Code | Language |
-|------|----------|
-| af | Afrikaans |
-| ar | Arabic |
-| bg | Bulgarian |
-| bs | Bosnian |
-| ca | Catalan |
-| cs | Czech |
-| de | German |
-| el | Greek |
-| en-gb | English (GB) |
-| en-us | English (US) |
-| eo | Esperanto |
-| es | Spanish |
-| et | Estonian |
-| eu | Basque |
-| fa | Persian |
-| fi | Finnish |
-| fr | French |
-| hr | Croatian |
-| hu | Hungarian |
-| hy | Armenian |
-| id | Indonesian |
-| it | Italian |
-| kk | Kazakh |
-| ko | Korean |
-| lt | Lithuanian |
-| lv | Latvian |
-| mk | Macedonian |
-| ms | Malay |
-| nl | Dutch |
-| no | Norwegian |
-| pl | Polish |
-| pt | Portuguese |
-| ro | Romanian |
-| ru | Russian |
-| sk | Slovak |
-| sq | Albanian |
-| sr | Serbian |
-| sv | Swedish |
-| tr | Turkish |
-| uk | Ukrainian |
-| ur | Urdu |
+Here's the modified table with the writing form information added for the specified languages:
+
+| Code | Language | Writing Form |
+|------|----------|--------------|
+| af | Afrikaans | |
+| ar | Arabic | Only fully diacritized Arabic |
+| bg | Bulgarian | |
+| bs | Bosnian | Cyrillic alphabet |
+| ca | Catalan | |
+| cs | Czech | |
+| de | German | |
+| el | Greek | |
+| en-gb | English (GB) | |
+| en-us | English (US) | |
+| eo | Esperanto | |
+| es | Spanish | |
+| et | Estonian | |
+| eu | Basque | |
+| fa | Persian | Only Perso-Arabic script |
+| fi | Finnish | |
+| fr | French | |
+| hr | Croatian | |
+| hu | Hungarian | |
+| hy | Armenian | |
+| id | Indonesian | |
+| it | Italian | |
+| kk | Kazakh | |
+| ko | Korean | |
+| lt | Lithuanian | |
+| lv | Latvian | |
+| mk | Macedonian | Cyrillic alphabet |
+| ms | Malay | |
+| nl | Dutch | |
+| no | Norwegian | |
+| pl | Polish | |
+| pt | Portuguese | European Portuguese |
+| ro | Romanian | |
+| ru | Russian | |
+| sk | Slovak | |
+| sq | Albanian | |
+| sr | Serbian | Cyrillic alphabet |
+| sv | Swedish | |
+| tr | Turkish | |
+| uk | Ukrainian | |
+| ur | Urdu | |
 
 ## File Naming
 
