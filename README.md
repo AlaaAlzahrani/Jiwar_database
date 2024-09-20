@@ -55,12 +55,12 @@ Each file contains 25 columns with the following information:
 
 Here's the modified table with the writing form information added for the specified languages:
 
-| Code | Language | Writing Form |
+| Code | Language | Writing Script Form |
 |------|----------|--------------|
 | af | Afrikaans | |
-| ar | Arabic | Only fully diacritized Arabic |
+| ar | Arabic | Fully diacritized Arabic |
 | bg | Bulgarian | |
-| bs | Bosnian | Cyrillic alphabet |
+| bs | Bosnian | Cyrillic and Latin alphabet |
 | ca | Catalan | |
 | cs | Czech | |
 | de | German | |
@@ -71,7 +71,7 @@ Here's the modified table with the writing form information added for the specif
 | es | Spanish | |
 | et | Estonian | |
 | eu | Basque | |
-| fa | Persian | Only Perso-Arabic script |
+| fa | Persian | Perso-Arabic script |
 | fi | Finnish | |
 | fr | French | |
 | hr | Croatian | |
